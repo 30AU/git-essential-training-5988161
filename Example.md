@@ -1,2 +1,3 @@
 This is content
-extra
+
+This is an extra line
